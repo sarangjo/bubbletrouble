@@ -1,0 +1,1 @@
+Position.X Position.Y Velocity.X Velocity.Y BounceHeight Player.X

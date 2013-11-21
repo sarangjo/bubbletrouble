@@ -1,0 +1,11 @@
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\BubbleTrouble\BubbleTrouble\BubbleTrouble\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\BubbleTrouble\BubbleTrouble\BubbleTrouble\bin\x86\Debug\BubbleTrouble.exe
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\BubbleTrouble\BubbleTrouble\BubbleTrouble\bin\x86\Debug\BubbleTrouble.pdb
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\BubbleTrouble\BubbleTrouble\BubbleTrouble\obj\x86\Debug\BubbleTrouble.exe
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\BubbleTrouble\BubbleTrouble\BubbleTrouble\obj\x86\Debug\BubbleTrouble.pdb
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\BubbleTrouble\BubbleTrouble\BubbleTrouble\bin\x86\Debug\Content\BlueBall.xnb
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\BubbleTrouble\BubbleTrouble\BubbleTrouble\bin\x86\Debug\Content\Ben.xnb
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\BubbleTrouble\BubbleTrouble\BubbleTrouble\bin\x86\Debug\Content\BenBack.xnb
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\BubbleTrouble\BubbleTrouble\BubbleTrouble\bin\x86\Debug\Content\DefaultBall.xnb
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\BubbleTrouble\BubbleTrouble\BubbleTrouble\obj\x86\Debug\BubbleTrouble.csprojResolveAssemblyReference.cache
+C:\Users\Sarang\Documents\Visual Studio 2010\Projects\BubbleTrouble\BubbleTrouble\BubbleTrouble\bin\x86\Debug\Content\Font.xnb
